@@ -1,0 +1,4 @@
+arch: ppc
+os: linux
+script: 
+  - echo "Travis-CI"
